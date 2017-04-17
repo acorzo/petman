@@ -1,0 +1,12 @@
+
+#cover {
+  background-image: image-url("bg-home.jpg");
+  background-size: cover;
+  background-position: 35% 35%;
+  color: white;
+  height: 90vh;
+}
+
+.overlay{
+  background-color: rgba(0, 0, 0, 0.7);
+}
